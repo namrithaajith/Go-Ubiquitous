@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_f5cff37854655ccd1b193b10dbaf5e8bf97a3403.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_b5f02b19e12b8ba83b64dbb632228d95adbf832a.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.1_8c645c269b9e0f19636338b411ab5f6a5dbed318.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8465fad6dd05b954b82bd5ff22edd80992808561">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-23.1.1_cdf9b8d2dc7378e0079e72f2a4afb14495a82650.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_206b0a6177f1038487a5c326d82bc80664cac6e5.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.1_1b6911b7afe42f9fd319d9da1e760faa7ed51c3c.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Downloads/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_299a2d5c439b3049d415892c27e25790fa15655a.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_05d9a1f6805410d68c08ecb28c780adf58a8c131.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_424045172a438cff8b175e38b4cc2c720647e9dc.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.1_937214d1af32fea363f2dcd075c205d863dce94f.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.1_7f9eadacd36f7904174a655f3d0bfc06f9542139.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/muzei-api-2.0_c50fe285d129c30bec75c876f5e6859a514c049d.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_b8b3e0e8de09352c1011b1f2595d2d59075e0c4d.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Downloads/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_70d1b7e6f8141b7356c3ffafa45fa8eb279bb3a8.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.2.1_0bacc7d7e4d3532f6d81ecdcb56958183947e431.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.2.1_f160b26148bdd52903fbe41599a11d8644c72912.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/glide-3.5.2_799413f1af63c3d1b96c3f181325d19fd2cfb2bf.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d683ef619ad12025fb2012f738d1ae963ccff2f9.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_42f5400f71a3bf776573b91c51e25a58e833f994.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_56cad13447fb0e4f4db80752675ec6a343a4f879.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="87fb797ba434e0847cfcca4ffd740941c41634e6">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-2.0.0-alpha2_fa2597ed09ae20abe3ba01d5756a897936e81936.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.1_d36173948b8df2aceacc94dccdbde3bee5182f3e.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.2.1_ed19d87cfbbf308733ee01b42d5c6f1d92614852.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.1_cc39972bc75ffca7f7b094528ea6b17730bf486c.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.2.1_a6aaadab69a3b2b6183fe65dff156433c7cacef6.jar" />
+    </item>
+    <item
+        jar="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="87fb797ba434e0847cfcca4ffd740941c41634e6">
+        <dex dex="/Users/ajithkp/Documents/Namri_Projects/AndroidStudioProjects/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/watch/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-2.0.0-alpha2_3b4c4bc2108c6e15a9c0fe41d4c63646b03248c9.jar" />
+    </item>
+
+</items>
