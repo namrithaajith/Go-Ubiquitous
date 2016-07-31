@@ -2,10 +2,6 @@ package android.example.com.watch;
 
 import com.example.android.sunshine.app.R;
 
-/**
- * Created by ajithkp on 30/07/16.
- */
-
 
 public class WatchFaceUtility {
 
